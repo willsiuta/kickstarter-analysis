@@ -1,5 +1,4 @@
 # Kickstarting with Excel
-test
 ## Overview of Project
 
 The project takes an in-depth look at data for fundraising campaigns for various plays looking at various factors such as launch dates and funding goals.
